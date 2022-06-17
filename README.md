@@ -26,15 +26,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Midcrash/Inventory-Hero">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Inventory Hero</h3>
 
   <p align="center">
     Inventory Management App for Restaurant
   </p>
+  <p>To test the website click <a href="https://ih.rawasf.com">here</a> PW:111111</p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
